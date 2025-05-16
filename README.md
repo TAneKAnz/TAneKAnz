@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chawongr&show_icons=true&theme=tokyonight" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawongr&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TAneKAnz&show_icons=true&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAneKAnz&layout=compact&theme=tokyonight" />
 </p>
 
 <br><br><br><br><br><br><br><br>
