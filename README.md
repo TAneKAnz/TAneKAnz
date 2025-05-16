@@ -2,9 +2,9 @@
   <img src="asset/Pinterest Image (1).jpeg" alt="Plants" />
 </p>
 
-<h1 align="center">Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi Guys 🤘🏽</h1>
 
-<p align="center">Welcome to my GitHub Yalla</p>
+<p align="center">Welcome to my GitHub</p>
 
 ---
 
