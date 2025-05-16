@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/13933080091142561/" alt="Plants" />
+  <img src="https://github.com/TAneKAnz/TAneKAnz/asset/Pinterest Image (1).jpeg" alt="Plants" />
 </p>
 
 <h1 align="center">Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
